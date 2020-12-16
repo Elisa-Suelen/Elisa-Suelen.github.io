@@ -16,7 +16,7 @@
 	<p>1 artista</p>
 	<p>2 artista</p>
 	<p>3 artista</p>
-	<p> <a href="pg2.html">Clique aqui</a> para ir para a página 2</p>
+	<p> <a href="pg2.md">Clique aqui</a> para ir para a página 2</p>
 	<!-- Site criado por Suelen Zierke e Elisa Butsch da turma 2º info A -->
 		
 </body>
