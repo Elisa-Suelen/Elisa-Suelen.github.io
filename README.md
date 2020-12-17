@@ -11,7 +11,7 @@
 </head>
 <body>
 		
-	<h1>Cantores</h1>
+	<h1>Música</h1>
 	<hr>
 	<p>a música está muito presente no nosso dia a dia, sempre estamos ouvindo alguma coisa ao nosso redor, seja um comercial do ifood no youtube ou um vizinho fingindo estar na final do The Voice Brasil. Por isso, hoje trouxemos os nossos artistas favoritos:</p>
 	<hr>
